@@ -49,7 +49,10 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 
 **Standard User Role**
 
-* [Standard User Role](./screenshots/users-standard-role.png)
+* [Create Standard User](./screenshots/New-User.png)
+* [Complete User Creation](./screenshots/New-User-1.png)
+* [Verify User in Computer Management](./screenshots/New-User-2.png)
+* [Verify User Group Membership](./screenshots/New-User-Properties.png)
 
 **Result**
 
