@@ -1,4 +1,3 @@
-# Windows-10-Users-Management-Lab
 # Windows 10 Local Users & Permissions Lab
 
 ## 🛡️ Στόχος
