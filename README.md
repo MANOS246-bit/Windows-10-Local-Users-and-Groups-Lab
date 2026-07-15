@@ -84,6 +84,8 @@ Tested Windows Update permissions using a Standard User account.
 
 **Screenshot**
 
+* [Open Services Console](./screenshots/Services.msc-Standard.png)
+* [View Service Properties](./screenshots/Properties-Standard.png)
 * [Windows Update - Standard User](./screenshots/windows-update-pause-standard.png)
 
 **Result**
