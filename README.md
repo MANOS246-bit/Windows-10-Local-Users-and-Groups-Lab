@@ -40,14 +40,21 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 
 **Screenshots**
 
-* [Administrator Role](./screenshots/users-admin-role.png)
+**Administrator Role**
+
+* [Computer Management](./screenshots/Computer%20Management.png)
+* [Users](./screenshots/Users.png)
+* [Users-1](./screenshots/Users-1.png)
+* [Users-Properties](./screenshots/Users-Properties.png)
+
+**Standard User Role**
+
 * [Standard User Role](./screenshots/users-standard-role.png)
 
 **Result**
 
 * Administrator account confirmed through Administrators group membership.
 * Standard User account confirmed through Users group membership.
-
 ---
 
 ### Windows Services
