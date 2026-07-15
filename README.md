@@ -42,10 +42,10 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 
 **Administrator Role**
 
-* [Computer Management](./screenshots/Computer%20Management.png)
-* [Users](./screenshots/Users.png)
-* [Users-1](./screenshots/Users-1.png)
-* [Users-Properties](./screenshots/Users-Properties.png)
+* [Open Computer Management](./screenshots/computer-management.png)
+* [Open Local Users & Groups](./screenshots/users.png)
+* [View Administrator Account](./screenshots/users-1.png)
+* [Verify Administrator Group Membership](./screenshots/users-properties.png)
 
 **Standard User Role**
 
