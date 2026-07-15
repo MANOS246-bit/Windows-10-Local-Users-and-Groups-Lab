@@ -42,18 +42,17 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 
 **Administrator Role**
 
-* [Computer Management](./screenshots/computer-management.png)
-* [Open Local Users & Groups](./screenshots/users.png)
-* [View Administrator Account](./screenshots/users-1.png)
-* [Verify Administrator Group Membership](./screenshots/users-properties.png)
+* [Open Computer Management](./screenshots/Computer%20Management.png)
+* [Open Local Users & Groups](./screenshots/Users.png)
+* [View Administrator Account](./screenshots/Users-1.png)
+* [Verify Administrator Group Membership](./screenshots/Users-Properties.png)
 
 **Standard User Role**
 
 * [Create Standard User](./screenshots/Create-Standard-User.png)
 * [Complete User Creation](./screenshots/Complete-User-Creation.png)
-* [Verify User in Computer Management](./screenshots/Verify-User-in-Computer-Management.png)
+* [Verify User in Computer Management](./screenshots/Verify%20User%20in%20Computer%20Management.png)
 * [Verify User Group Membership](./screenshots/Verify-User-Group-Membership.png)
-
 **Result**
 
 * Administrator account confirmed through Administrators group membership.
