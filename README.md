@@ -103,7 +103,7 @@ Reviewed Windows Event Logs using a Standard User account.
 **Standard User**
 
 * [Open Event Viewer](./screenshots/Open-Event-Viewer.png)
-* [View Windows Event Logs](./screenshots/Event-viewer.png)
+* [View Windows Event Logs](./screenshots/View-Windows-Event-Logs.png)
 * [Verify Standard User Access](./screenshots/New-User-access-to-eventviewer.png)
 
 **Events Reviewed**
