@@ -62,18 +62,21 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 
 ### Windows Services
 
-Compared Administrator and Standard User permissions when accessing **Windows Services**.
+Compared Administrator and Standard User permissions when managing **Windows Services**.
 
 **Screenshots**
 
-* [Standard User Services](./screenshots/user-standard-services.png)
-* [Administrator Services](./screenshots/user-admin-services.png)
+**Administrator**
+
+* [Open Services Console](./screenshots/services.msc-Admin.png)
+* [View Service Properties](./screenshots/Properties-Admin.png)
+* [Administrator Service Access](./screenshots/New-User-Admin.png)
+* [Verify Service Control Permissions](./screenshots/Properties-Admin-can-stop.png)
 
 **Result**
 
-* Standard users have view-only access to protected Windows services.
-* Administrator accounts can start, stop and configure system services.
-
+* Administrator accounts can start, stop and configure Windows services.
+* Managing protected system services requires administrative privileges.
 ---
 
 ### Windows Update
@@ -95,11 +98,23 @@ Tested Windows Update permissions using a Standard User account.
 
 Reviewed Windows Event Logs using a Standard User account.
 
+**Screenshots**
+
+**Standard User**
+
+* [Open Event Viewer](./screenshots/eventvwr.msc.png)
+* [View Windows Event Logs](./screenshots/Event-viewer.png)
+* [Verify Standard User Access](./screenshots/New-User-access-to-eventviewer.png)
+
 **Events Reviewed**
 
 * Kernel-General
 * WindowsUpdateClient
 
+**Result**
+
+* Standard Users can review Windows Event Logs for troubleshooting.
+* Viewing logs does not require administrative privileges.
 **Result**
 
 Verified that Standard Users can inspect Windows Event Logs for troubleshooting purposes without administrative privileges.
