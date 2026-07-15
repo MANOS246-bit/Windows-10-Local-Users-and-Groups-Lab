@@ -53,6 +53,7 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 * [Complete User Creation](./screenshots/Complete-User-Creation.png)
 * [Verify User in Computer Management](./screenshots/Verify%20User%20in%20Computer%20Management.png)
 * [Verify User Group Membership](./screenshots/Verify-User-Group-Membership.png)
+* 
 **Result**
 
 * Administrator account confirmed through Administrators group membership.
