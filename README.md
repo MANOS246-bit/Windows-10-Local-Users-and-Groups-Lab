@@ -67,10 +67,10 @@ Compared Administrator and Standard User permissions when managing **Windows Ser
 
 **Administrator**
 
-* [Open Services Console](./screenshots/services.msc-Admin.png)
-* [View Service Properties](./screenshots/Properties-Admin.png)
-* [Administrator Service Access](./screenshots/New-User-Admin.png)
-* [Verify Service Control Permissions](./screenshots/Properties-Admin-can-stop.png)
+* [Open Services Console](./screenshots/Open-Services-Console.png)
+* [View Service Properties](./screenshots/View-Service-Properties.png)
+* [Administrator Service Access](./screenshots/Administrator-Service-Access.png)
+* [Verify Service Control Permissions](./screenshots/Verify-Service-Control-Permissions.png)
 
 **Result**
 
