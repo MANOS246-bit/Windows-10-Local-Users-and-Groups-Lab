@@ -42,7 +42,7 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 
 **Administrator Role**
 
-* [Open Computer Management](./screenshots/ComputerManagement.png)
+* [Open Computer Management](./screenshots/Computer-Management.png)
 * [Open Local Users & Groups](./screenshots/Users.png)
 * [View Administrator Account](./screenshots/Users-1.png)
 * [Verify Administrator Group Membership](./screenshots/Users-Properties.png)
