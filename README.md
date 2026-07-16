@@ -53,6 +53,14 @@ Verified Administrator and Standard User accounts using **Local Users & Groups**
 * [Verify User in Computer Management](./screenshots/Verify%20User%20in%20Computer%20Management.png)
 * [Verify User Group Membership](./screenshots/Verify-User-Group-Membership.png)
 
+  **Standard User Access Restrictions**
+
+* [Login as Standard User](./screenshots/login-standard-user.png)
+* [Standard User Desktop](./screenshots/standard-user-desktop.png)
+* [Open Control Panel](./screenshots/open-control-panel.png)
+* [Verify Standard User Account](./screenshots/verify-standard-user-account.png)
+* [Administrator Password Required](./screenshots/uac-administrator-password-required.png)
+
 **Result**
 
 * Administrator account confirmed through Administrators group membership.
