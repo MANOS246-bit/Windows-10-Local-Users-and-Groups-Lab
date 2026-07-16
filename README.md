@@ -128,15 +128,25 @@ Created a shared folder and compared Administrator vs Standard User permissions.
 
 **Screenshots**
 
-* [Folder Creation](./screenshots/Folder-Creation.png)
-* [Folder Permissions](./screenshots/labfolder-permissions.png)
+**Folder Creation**
+
+* [Create Shared Folder](./screenshots/labfolder-create.png)
+
+**Folder Permissions**
+
+* [Shared Folder (Administrator)](./screenshots/shared-folder-administrator.png)
+* [Administrator NTFS Permissions](./screenshots/administrator-ntfs-permissions.png)
+* [Shared Folder (Standard User)](./screenshots/shared-folder-standard-user.png)
+* [Standard User NTFS Permissions](./screenshots/standard-user-ntfs-permissions.png)
+* [Modify Permissions Granted](./screenshots/standard-user-modify-permissions.png)
+* [Create Test File](./screenshots/standard-user-create-test-file.png)
+* [Verify File Access](./screenshots/verify-standard-user-file-access.png)
 
 **Result**
 
-* Administrator accounts have Full Control and can modify permissions.
+* Administrator accounts have Full Control and can manage NTFS permissions.
 * Standard Users have Read or Modify access only when explicitly granted.
-* Demonstrated practical use of NTFS permissions and access control.
-
+* Successfully verified that Standard Users can create and modify files only after the appropriate NTFS permissions were assigned.
 ---
 
 ## 🧠 Τι Έμαθα
