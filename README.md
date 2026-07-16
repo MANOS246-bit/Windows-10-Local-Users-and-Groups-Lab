@@ -130,7 +130,7 @@ Created a shared folder and compared Administrator vs Standard User permissions.
 
 **Folder Creation**
 
-* [Create Shared Folder](./screenshots/labfolder-create.png)
+* [Create Shared Folder](./screenshots/Create-Shared-Folder.png)
 
 **Folder Permissions**
 
