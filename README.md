@@ -1,6 +1,6 @@
 # Windows 10 Local Users & Permissions Lab
 
-## 🛡️ Στόχος
+## 🛡️ Purpose
 
 Δημιουργία ενός μικρού εργαστηριακού περιβάλλοντος σε **Windows 10**, όπου έγινε έλεγχος και σύγκριση δικαιωμάτων μεταξύ **Administrator** και **Standard User** λογαριασμών.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🖥️ Περιβάλλον
+## 🖥️ Domain
 
 * OS: Windows 10 Pro
 * User Accounts:
@@ -157,7 +157,7 @@ Created a shared folder and compared Administrator vs Standard User permissions.
 * Successfully verified that Standard Users can create and modify files only after the appropriate NTFS permissions were assigned.
 ---
 
-## 🧠 Τι Έμαθα
+## 🧠 What i Learned
 
 * Configure Administrator and Standard User accounts.
 * Understand Windows privilege separation.
