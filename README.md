@@ -1,10 +1,9 @@
 # Windows 10 Local Users & Permissions Lab
 
 ## 🛡️ Purpose
+Creation of a small Lab environment in **Windows 10**, where involving the checking and comparison between **Administrator** & **Standard User** accounts.
 
-Δημιουργία ενός μικρού εργαστηριακού περιβάλλοντος σε **Windows 10**, όπου έγινε έλεγχος και σύγκριση δικαιωμάτων μεταξύ **Administrator** και **Standard User** λογαριασμών.
-
-Πραγματοποιήθηκαν δοκιμές σε:
+Trials were made in:
 
 * Local Users & Groups
 * Windows Services
@@ -12,7 +11,7 @@
 * Event Viewer
 * NTFS Folder Permissions
 
-Σκοπός: πρακτική εξάσκηση σε **Windows Administration, Access Control, Troubleshooting και IT Support skills**.
+Purpose: Practical training in **Windows Administration, Access Control, Troubleshooting and IT Support skills**.
 
 ---
 
